@@ -11,7 +11,7 @@ const StudentNavBar = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="/">Student Information</a>
+        <a class="nav-link active" aria-current="page" href="/Add">Student Information</a>
         <a class="nav-link" href="/search">Search Student</a>
         <a class="nav-link" href="/delete">Delete Student</a>
         <a class="nav-link" href="/ViewAll">View all students</a>
